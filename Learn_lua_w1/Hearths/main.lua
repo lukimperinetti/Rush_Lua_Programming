@@ -5,8 +5,8 @@ function love.load()
     for i = 1, pv do
         local heart = {
             image = love.graphics.newImage("src/img/plain-heart.png"),
-            posX = (i - 1) * 20, -- Position hearts with some space between them
-            posY = 0
+            posY = (i - 1) * 20, -- Position hearts with some space between them
+            posX = 0
         }
         table.insert(hearts, heart)
     end
