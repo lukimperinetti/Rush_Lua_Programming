@@ -1,0 +1,10 @@
+{
+    "Lua.diagnostics.globals": [
+        "pv",
+        "love",
+        "heartImage",
+        "heart",
+        "i",
+        "hearts"
+    ]
+}
